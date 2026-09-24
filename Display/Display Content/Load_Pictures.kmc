@@ -1,0 +1,96 @@
+eDIP320-8   "BMP-File"     ; define eDIP, "Projectname" max. 32 character
+
+AutoScan: 1 			; autoscan for correct baud rate to connect to eDIP on COM/USB
+
+COM8: 115200					; program eDIP on COMx with 115200 Baud
+;USB: 115200, "eDIP Programmer"	; use EA 9777-USB eDIP Programmer and program eDIP with 115200 baud
+
+;VERIFY					; verify after program
+
+;------------------------------------------------------------------------------
+; load defaults
+
+include <..\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\eDIP320-8\default_constant.kmi>	; double click to open
+include <..\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\eDIP320-8\default_font.kmi>
+include <..\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\eDIP320-8\default_pictures.kmi>
+
+
+;-------------------------------------------------------------------------------
+
+MnAutoStart = 0
+
+PowerOnMacro:		; runs after power-on
+	#MN MnAutoStart
+
+ResetMacro:		; runs after external reset
+	#MN MnAutoStart
+
+WatchdogMacro:	; runs after a crash (>1000ms)
+	#MN MnAutoStart
+
+BrownOutMacro:	; runs when supply voltage drops <3V
+	#MN MnAutoStart
+
+
+;-------------------------------------------------------------------------------
+Path <..\Display Content\Bitmaps>	; define standard path
+Picture: 6 <RTCustomz.bmp>	; define picture no. 6
+Picture: 7 <WH.bmp>		; define poicture no. 7
+Picture: 8 <SPDIF_Audio.bmp>,<SPDIF_Audio_Selected.bmp>
+Picture: 9 <USB_Audio.bmp>,<USB_Audio_Selected.bmp>
+Picture: 10 <XLR_Audio.bmp>,<XLR_Audio_Selected.bmp>
+Picture: 11 <Analog_Audio.bmp>,<Analog_Audio_Selected.bmp>
+Picture: 12 <BT_Audio.bmp>,<BT_Audio_Selected.bmp>
+Picture: 13 <Mute.bmp>,<Mute_Selected.bmp>
+Picture: 14 <Audio.bmp>,<Audio_Selected.bmp>
+Picture: 15 <DMX.bmp>,<DMX_Selected.bmp>
+Picture: 16 <Setup.bmp>,<Setup_Selected.bmp>
+Picture: 17 <Select_Source.bmp>
+Picture: 18 <Spectrum.bmp>
+Picture: 19 <Volume.bmp>
+Picture: 20 <VU_Meter.bmp>
+Picture: 21 <Level.bmp>
+Picture: 22 <Volume_Up.bmp>,<Volume_Up_Selected.bmp> 
+Picture: 23 <Volume_Down.bmp>,<Volume_Down_Selected.bmp>
+Picture: 24 <DMX_Intern.bmp>,<DMX_Intern_Selected.bmp>
+Picture: 25 <DMX_Input.bmp>,<DMX_Input_Selected.bmp>
+Picture: 26 <DMX_S2L.bmp>,<DMX_S2L_Selected.bmp>
+Picture: 27 <Work_Light.bmp>,<Work_Light_Selected.bmp>
+Picture: 28 <Brightness.bmp>
+Picture: 29 <Frequency.bmp>
+Picture: 30 <Header.bmp>
+Picture: 31 <Strobes.bmp>
+Picture: 32 <DMX_Strobe.bmp>,<DMX_Strobe_Selected.bmp>
+Picture: 33 <Flash.bmp>,<Flash_Selected.bmp> 
+Picture: 34 <Puke.bmp>,<Puke_Selected.bmp>
+Picture: 35 <Solid_Color.bmp>,<Solid_Color_Selected.bmp>
+Picture: 36 <R.bmp>,<R_Selected.bmp>
+Picture: 37 <G.bmp>,<G_Selected.bmp>
+Picture: 38 <B.bmp>,<B_Selected.bmp>
+Picture: 39 <DMX_Linked.bmp>,<DMX_Linked_Selected.bmp>
+Picture: 40 <Madrix_DMX.bmp>,<Madrix_DMX_Selected.bmp>
+Picture: 41 <FTDI_DMX.bmp>,<FTDI_DMX_Selected.bmp>
+
+
+				; double-click on the name to open BitmapEdit	
+
+
+
+
+;-------------------------------------------------------------------------------
+Macro: MnAutoStart
+;--- Place ELECTRONIC ASSEMBLY logo ---
+	#TA				; Terminal off
+	#UI 0,0,6			; place logo
+
+;--- Place Picture ---
+	#UI 0,120, 7		; place picture no. 6 at pixelpostion 10|20
+
+	
+
+
+	
+	
+	
+
+	

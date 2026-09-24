@@ -1,0 +1,111 @@
+Makro-Compiler V3.1 (04.09.2012) for
+EA eDIP320-8
+
+Open File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Load_Pictures.kmc>
+Open File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\eDIP320-8\default_constant.kmi>
+Open File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\eDIP320-8\default_font.kmi>
+Import Font-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\FONTS\4x6.FXT>
+            size: 4x6 dots, used codes: 32..158, 1021 bytes
+Import Font-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\FONTS\6x8.FXT>
+            size: 6x8 dots, used codes: 32..255, 2096 bytes
+Import Font-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\FONTS\7x12.FXT>
+            size: 7x12 dots, used codes: 32..255, 2800 bytes
+Import Font-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\FONTS\GENEVA10.FXT>
+            height: 10 dots, used codes: 32..248, 2017 bytes
+Import Font-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\FONTS\CHICAG14.FXT>
+            height: 14 dots, used codes: 32..248, 2739 bytes
+Import Font-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\FONTS\SWISS30B.FXT>
+            height: 30 dots, used codes: 32..248, 9457 bytes
+Import Font-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\FONTS\BIGZIF57.FXT>
+            height: 57 dots, used codes: 43..58, 3598 bytes
+Open File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\eDIP320-8\default_pictures.kmi>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\Radio60x12_0.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\Radio60x12_1.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\Check60x12_0.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\Check60x12_1.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\Arrow60x13_0.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\Arrow60x13_1.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\RegisterRight42x15_0.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\RegisterRight42x15_1.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\RegisterBottom36x15_0.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\ELECTRONIC_ASSEMBLY_LCD-Tools-Portable_V45\Data\eDIP - intelligent graphic displays\BITMAPS\monochrome\button\RegisterBottom36x15_1.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\RTCustomz.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\WH.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\SPDIF_Audio.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\SPDIF_Audio_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\USB_Audio.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\USB_Audio_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\XLR_Audio.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\XLR_Audio_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Analog_Audio.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Analog_Audio_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\BT_Audio.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\BT_Audio_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Mute.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Mute_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Audio.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Audio_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Setup.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Setup_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Select_Source.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Spectrum.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Volume.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\VU_Meter.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Level.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Volume_Up.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Volume_Up_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Volume_Down.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Volume_Down_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Intern.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Intern_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Input.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Input_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_S2L.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_S2L_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Work_Light.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Work_Light_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Brightness.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Frequency.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Header.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Strobes.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Strobe.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Strobe_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Flash.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Flash_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Puke.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Puke_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Solid_Color.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Solid_Color_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\R.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\R_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\G.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\G_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\B.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\B_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Linked.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\DMX_Linked_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Madrix_DMX.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\Madrix_DMX_Selected.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\FTDI_DMX.bmp>
+Import Picture-File <F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Bitmaps\FTDI_DMX_Selected.bmp>
+
+Write DATA-FLASH Upload File F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Load_Pictures.DF
+
+Data-Flash Memory overview:
+     System:         723 bytes
+   7 Fonts:        23728 bytes
+  41 Pictures:     28949 bytes
+   1 Macros:          19 bytes
+   0 Touchmacros:      0 bytes
+   0 Menumacros:       0 bytes
+ ----------------------------
+         sumary:   53419 bytes
+
+connecting eDIP320-8 on COM8
+
+found: eDIP320-8 320x240, monochrome, Smallprotokoll, 80kB FLASH, 115200 baud
+program file F:\WinDrive\Sicherung vor Neuinstallation\RT Projects\Display\Display Content\Load_Pictures.DF
+Ok
+Ready: eDIP is programed,  53419 bytes used, 28501 bytes free
